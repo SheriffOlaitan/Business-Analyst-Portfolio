@@ -1,0 +1,26 @@
+### Patient Module
+
+- Online appointment booking with available time slots
+- View and manage appointments (reschedule/cancel)
+- Access medical records and consultation history
+- Receive notifications (SMS/Email reminders)
+- Patient profile management
+- View billing and payment history
+
+### 3.2 Doctor Module
+
+- View and manage daily schedule
+- Set availability and working hours
+- Add consultation notes and prescriptions
+- Access patient medical history
+- Manage appointment requests (accept/reject)
+- View patient queue in real-time
+
+### 3.3 Admin Module
+
+- User management (add/remove doctors, staff, patients)
+- Billing and invoice generation
+- Payment tracking and reconciliation
+- System reporting and analytics
+- Configuration and settings management
+- Audit logs and compliance tracking
